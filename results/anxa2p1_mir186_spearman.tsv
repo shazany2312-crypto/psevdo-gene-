@@ -1,0 +1,2 @@
+pseudogene	miRNA	miRNA_id	n_common_samples_before_na_removal	n_samples_used	spearman_rho	p_value
+ANXA2P1	hsa-miR-186-5p	MIMAT0000456	450	450	-0.20953108434071713	7.383780533978531e-06

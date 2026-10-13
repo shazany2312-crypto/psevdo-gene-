@@ -1,0 +1,2 @@
+pseudogene	mirna_id	mirna_name	mirna_sequence_5_to_3	seed_2_to_8	target_seed_match_5_to_3	match_start_1_based	match_end_1_based	spearman_r	FDR
+ANXA2P1	MIMAT0000456	hsa-miR-186-5p	CAAAGAATTCTCCTTTTGGGCT	AAAGAAT	ATTCTTT	714	720	-0.2091734030332134	0.0001327326663469

@@ -1,0 +1,17 @@
+# Исходные большие биоинформатические данные
+data/raw/
+
+# Большой файл метаданных
+data/TcgaTargetGTEX_phenotype.txt.gz
+
+# Виртуальное окружение и файлы PyCharm
+.venv/
+venv/
+.idea/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Системные файлы
+Thumbs.db
